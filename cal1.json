@@ -1,0 +1,17 @@
+{
+    "name": "simple-calculator",
+    "version": "1.0.0",
+    "description": "A simple calculator CLI",
+    "bin": {
+        "simple-calculator": "./cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-username/simple-calculator"
+    },
+    "keywords": [
+        "calculator",
+        "cli"
+    ],
+    "license": "MIT"
+}
